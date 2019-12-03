@@ -2,12 +2,6 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
-    }
-  ],
-  "facturas": [
-    {
-      "id": 1,
       "factura_db_ref": "testing",
       "monto": [
           {
@@ -19,7 +13,8 @@
        "fecha": "01/01/2019",
        "status": "No Cobrada"
        }
-    ],
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
