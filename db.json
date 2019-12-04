@@ -142,6 +142,13 @@
     "fecha": "01/01/2019",
     "status": "No Cobrada"
   },
+      {
+    "id": 7,
+    "factura_db_ref": "testing7",
+    "monto": "$1.00",
+    "fecha": "01/01/2019",
+    "status": "No Cobrada"
+  }
   ],
   "profile": {
     "name": "typicode"
