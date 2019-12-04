@@ -103,7 +103,7 @@
     {
       "id": 1,
       "factura_db_ref": "testing",
-      "monto":40.0,
+      "monto": 40.0,
        "fecha": "01/01/2019",
        "status": "No Cobrada"
        }
