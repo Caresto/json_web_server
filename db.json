@@ -103,10 +103,45 @@
     {
       "id": 1,
       "factura_db_ref": "testing",
-      "monto": "$40.0",
+      "monto": "$20.00",
        "fecha": "01/01/2019",
        "status": "No Cobrada"
-       }
+       },
+  {
+    "id": 2,
+    "factura_db_ref": "testing2",
+    "monto": "$1.00",
+    "fecha": "01/01/2019",
+    "status": "No Cobrada"
+  },
+  {
+    "id": 3,
+    "factura_db_ref": "testing3",
+    "monto": "$1.00",
+    "fecha": "01/01/2019",
+    "status": "No Cobrada"
+  },
+  {
+    "id": 4,
+    "factura_db_ref": "testing4",
+    "monto": "$1.00",
+    "fecha": "01/01/2019",
+    "status": "No Cobrada"
+  },
+  {
+    "id": 5,
+    "factura_db_ref": "testing5",
+    "monto": "$1.00",
+    "fecha": "01/01/2019",
+    "status": "No Cobrada"
+  },
+  {
+    "id": 6,
+    "factura_db_ref": "testing6",
+    "monto": "$1.00",
+    "fecha": "01/01/2019",
+    "status": "No Cobrada"
+  },
   ],
   "profile": {
     "name": "typicode"
