@@ -103,13 +103,7 @@
     {
       "id": 1,
       "factura_db_ref": "testing",
-      "monto":
-          {
-            "amount": "40.0",
-            "currency": "USD",
-            "locale": "en_US"
-          }
-        ,
+      "monto":40.0,
        "fecha": "01/01/2019",
        "status": "No Cobrada"
        }
