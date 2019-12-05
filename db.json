@@ -103,77 +103,77 @@
     {
       "id": 1,
       "factura_db_ref": "testing",
-      "monto": "$20.00",
+      "monto": "20.00",
        "fecha": "01/01/2019",
        "status": "No Cobrada"
        },
   {
     "id": 2,
     "factura_db_ref": "testing2",
-    "monto": "$1.00",
+    "monto": "1.00",
     "fecha": "02/01/2019",
     "status": "No Cobrada"
   },
   {
     "id": 3,
     "factura_db_ref": "testing3",
-    "monto": "$1.00",
+    "monto": "1.00",
     "fecha": "03/01/2019",
     "status": "No Cobrada"
   },
   {
     "id": 4,
     "factura_db_ref": "testing4",
-    "monto": "$1.00",
+    "monto": "1.00",
     "fecha": "04/01/2019",
     "status": "No Cobrada"
   },
   {
     "id": 5,
     "factura_db_ref": "testing5",
-    "monto": "$1.00",
+    "monto": "1.00",
     "fecha": "05/01/2019",
     "status": "No Cobrada"
   },
   {
     "id": 6,
     "factura_db_ref": "testing6",
-    "monto": "$1.00",
+    "monto": "1.00",
     "fecha": "06/01/2019",
     "status": "No Cobrada"
   },
       {
     "id": 7,
     "factura_db_ref": "testing7",
-    "monto": "$1.00",
+    "monto": "1.00",
     "fecha": "07/01/2019",
     "status": "No Cobrada"
   },
       {
     "id": 8,
     "factura_db_ref": "testing8",
-    "monto": "$1.00",
+    "monto": "1.00",
     "fecha": "01/01/2019",
     "status": "No Cobrada"
   },
       {
     "id": 9,
     "factura_db_ref": "testing9",
-    "monto": "$1.00",
+    "monto": "1.00",
     "fecha": "01/01/2019",
     "status": "No Cobrada"
   },
       {
     "id": 10,
     "factura_db_ref": "testing10",
-    "monto": "$1.00",
+    "monto": "1.00",
     "fecha": "01/01/2019",
     "status": "No Cobrada"
   },
       {
     "id": 11,
     "factura_db_ref": "testing11",
-    "monto": "$1.00",
+    "monto": "1.00",
     "fecha": "01/01/2019",
     "status": "No Cobrada"
   }
