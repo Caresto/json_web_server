@@ -63,7 +63,7 @@
     "__v": 0
   }
 ],
-  "posts": [
+  "invoices": [
     {
       "id": 1,
       "factura_db_ref": "testing",
