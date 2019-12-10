@@ -2,7 +2,7 @@
   "clients": [
   {
     "isActive": true,
-    "_id": "5dea6eaaaaa7713fdfe1de72",
+    "id": "5dea6eaaaaa7713fdfe1de72",
     "uid": "22245",
     "name": "GRUPO GAMA INTERNATIONAL CORP SA (CENTENIAL) GRUPO GAMA INTERNATIONAL CORP SA (CENTENIAL) GRUPO GAMA INTERNATIONAL CORP SA (CENTENIAL)",
     "payment_type": "CREDITO",
@@ -11,7 +11,7 @@
   },
   {
     "isActive": true,
-    "_id": "5dea6eabaaa7713fdfe1de73",
+    "id": "5dea6eabaaa7713fdfe1de73",
     "uid": "22244",
     "name": "GRUPO GAMA INTERNATIONAL CORP SA (SAN FRANSISCO)",
     "payment_type": "CREDITO",
@@ -20,7 +20,7 @@
   },
   {
     "isActive": true,
-    "_id": "5dea6eabaaa7713fdfe1de74",
+    "id": "5dea6eabaaa7713fdfe1de74",
     "uid": "26309",
     "name": "CAFE NETO",
     "payment_type": "CREDITO",
@@ -29,7 +29,7 @@
   },
   {
     "isActive": true,
-    "_id": "5dea6eabaaa7713fdfe1de75",
+    "id": "5dea6eabaaa7713fdfe1de75",
     "uid": "22503",
     "name": "JAPAN FOOD OFICINAS PRINCIPAL",
     "payment_type": "CREDITO",
@@ -38,7 +38,7 @@
   },
   {
     "isActive": true,
-    "_id": "5dea6eabaaa7713fdfe1de76",
+    "id": "5dea6eabaaa7713fdfe1de76",
     "uid": "22243",
     "name": "GRUPO GAMA INTERNATIONAL CORP SA (BRISAS DEL GOLF)",
     "payment_type": "CREDITO",
@@ -47,7 +47,7 @@
   },
   {
     "isActive": true,
-    "_id": "5dea6eabaaa7713fdfe1de77",
+    "id": "5dea6eabaaa7713fdfe1de77",
     "uid": "22558",
     "name": "REST. NACION SUSHI (MADE IN JAPON)",
     "payment_type": "CREDITO",
@@ -56,7 +56,7 @@
   },
   {
     "isActive": true,
-    "_id": "5dea6eabaaa7713fdfe1de78",
+    "id": "5dea6eabaaa7713fdfe1de78",
     "uid": "22553",
     "name": "NACION SUSHI (MADE IN JAPAN) ALTA PLAZA",
     "created_at": "2019-12-06T15:07:23.679Z",
