@@ -140,6 +140,13 @@
     "monto": 1.00,
     "fecha": "01/01/2019",
     "status": "No Cobrada"
+  },
+      {
+    "id": 12,
+    "factura_db_ref": "testing12",
+    "monto": 39.43,
+    "fecha": "01/01/2019",
+    "status": "No Cobrada"
   }
     
   ],
