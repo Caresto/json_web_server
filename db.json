@@ -68,6 +68,7 @@
       "id": 1,
       "factura_db_ref": "testing",
       "monto": 20.00,
+      "client_uid": "22245",
        "fecha": "01/01/2019",
        "status": "No Cobrada"
        },
@@ -75,6 +76,7 @@
     "id": 2,
     "factura_db_ref": "testing2",
     "monto": 1.00,
+    "client_uid": "22245",
     "fecha": "02/01/2019",
     "status": "No Cobrada"
   },
@@ -103,6 +105,7 @@
     "id": 6,
     "factura_db_ref": "testing6",
     "monto": 1.00,
+    "client_uid": "22245",
     "fecha": "06/01/2019",
     "status": "No Cobrada"
   },
@@ -124,6 +127,7 @@
     "id": 9,
     "factura_db_ref": "testing9",
     "monto": 1.00,
+    "client_uid": "22245",
     "fecha": "01/01/2019",
     "status": "No Cobrada"
   },
@@ -138,6 +142,7 @@
     "id": 11,
     "factura_db_ref": "testing11",
     "monto": 1.00,
+    "client_uid": "22245",
     "fecha": "01/01/2019",
     "status": "No Cobrada"
   },
@@ -145,6 +150,7 @@
     "id": 12,
     "factura_db_ref": "testing12",
     "monto": 39.43,
+    "client_uid": "22245",
     "fecha": "01/01/2019",
     "status": "No Cobrada"
   }
